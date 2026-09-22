@@ -1,5 +1,5 @@
-// //function in java script 
-// // console.log("hell");
+function in java script 
+ console.log("hell");
 // // function hello()
 // // {
 // //     console.log("this is fumction");
